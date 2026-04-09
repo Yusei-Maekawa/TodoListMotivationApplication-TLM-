@@ -1,4 +1,4 @@
-# TodoListMotivationApplication
+# mokuvation
 
 ## 概要
 TodoListMotivationApplication は、短期・中期・長期の目標を整理し、それぞれを達成するための行動を記録・可視化することで、継続的にモチベーションを保ちながら目標達成を支援するアプリケーションです。
